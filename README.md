@@ -5,7 +5,7 @@ I build automation tools and smart systems for solopreneurs and small teams.
 Founder of **Timebender**, a platform that simplifies marketing, lead gen, and content creation using AI and no-code tools.
 
 ### What I’m working on:
-- **Timebender Club** – automation tools for content, outreach, and client onboarding
+- **Timebender Collective** – automation tools for content, outreach, and client onboarding
 - **SaaS automation stack** – built with n8n, Supabase, Airtable, Lovable, and Make.com
 
 ### Let’s connect:
